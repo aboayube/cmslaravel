@@ -1,0 +1,6 @@
+git status  =>يجيب حاله
+git branch master
+git branch
+git push origin master
+    ssh-keygen -t rsa -b  4096 -C "snuora2019@gmail.com"
+s
